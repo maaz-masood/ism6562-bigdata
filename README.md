@@ -1,2 +1,11 @@
-# ism6562-bigdata
-The repo for the course ISM6562 BIG DATA FOR BUSINESS
+# ISM 6562 - Big Data for Business 
+
+Repository for ISM 6562 - Big Data for Business Applications at USF.
+
+This repository will house projects, scripts, and assignments related to data engineering, 
+cloud computing, and big data ecosystems throughout the Semester.
+
+---
+**Author:** Maaz Ul Hasan Masood
+**Program:** MS in Artificial Intelligence and Business Analytics (MS-AIBA)
+
